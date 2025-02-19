@@ -14,3 +14,5 @@
 ## 扬声器选购<br>
 <img src="https://github.com/wuyeming/LeTalk/blob/main/doc/%E5%85%B4%E5%8D%8E%E9%91%AB.jpg" width="300"><br>
 * 使用的是兴华鑫的XHXDZ-2828-4R3W-2P1.25。<br>
+# 2.实物展示<br>
+<img src="https://github.com/wuyeming/LeTalk/blob/main/doc/%E5%B1%95%E7%A4%BA.jpg" width="500"><br>
